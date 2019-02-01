@@ -1,13 +1,13 @@
 # Site settings
-name: Freud's Blog
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
+name: Pangeun's Blog
+email: pangeun.kim@gmail.com
+author: Pangeun Kim
+url: pangeun.github.io
+resume_site: pangeun.github.io
+github: https://github.com/pangeun/
 baseurl: ""
-description: Stay hungry, stay foolish. 少年辛苦终身事，莫向光阴惰寸功。
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: 백발이 될때까지 개발을 하리라.
+meta_description: AWS, NCP, PHP7, MYSQL, NoSQL, Nodejs, React
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
