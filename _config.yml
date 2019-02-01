@@ -6,10 +6,10 @@ url: pangeun.github.io
 resume_site: https://www.linkedin.com/in/pangeunkim/
 github: https://github.com/pangeun/
 baseurl: ""
-description: 백발이 될때까지 개발을 하리라.
+description: 백발의 개발자를 꿈꾸고 있습니다.
 meta_description: AWS, NCP, PHP7, MYSQL, NoSQL, Nodejs, React, DaynamoDB
 motto: 백번의 말보다 한번의 실행으로 결과를 만들자.
-banner: 기록 없는 지식은 없는 지식과 같습니다.
+banner: 시간과 노력은 배신하지 않는다.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
