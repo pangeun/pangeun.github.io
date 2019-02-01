@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 相关博客
+title: Blog
 permalink: /reference/
 ---
 

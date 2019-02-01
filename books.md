@@ -1,6 +1,6 @@
 ---
 layout: post
-title: movie & book
+title: Movie & Book
 permalink: /books/
 ---
 
