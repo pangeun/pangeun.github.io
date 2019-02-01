@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 문화생활
+title: movie & book
 permalink: /books/
 ---
 
