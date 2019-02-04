@@ -10,17 +10,17 @@ permalink: /reference/
 
 Company
 =====================
-[리멤버-개발팀의 혁신론](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958)
-[실리콘 밸리 5개 기업 인터뷰](http://www.looah.com/article/view/2070)
-[프로그래머로서 성장을 도왔던 자세들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
-[github로 취업하기](https://sujinlee.me/professional-github/)
-[balboo 앱 개발기](https://dev-yakuza.github.io/ko/blaboo/development-journal/)
-[카카오헤어샵 개발 후기](https://brunch.co.kr/@cg4jins/1?fbclid=IwAR0EIC59PnCSZg5Y9FjSEFlnmB58ISifm9xqysUlqK5Axn486bNlx-yC7z8)
-[Javascript 코드 리뷰](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
-[아마존 3년 출근 리뷰](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
-[개발자에게 좋은 직장 혹은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
-[소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
-[머신러닝 공부 순서](https://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
++ [리멤버-개발팀의 혁신론](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958)
++ [실리콘 밸리 5개 기업 인터뷰](http://www.looah.com/article/view/2070)
++ [프로그래머로서 성장을 도왔던 자세들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
++ [github로 취업하기](https://sujinlee.me/professional-github/)
++ [balboo 앱 개발기](https://dev-yakuza.github.io/ko/blaboo/development-journal/)
++ [카카오헤어샵 개발 후기](https://brunch.co.kr/@cg4jins/1?fbclid=IwAR0EIC59PnCSZg5Y9FjSEFlnmB58ISifm9xqysUlqK5Axn486bNlx-yC7z8)
++ [Javascript 코드 리뷰](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
++ [아마존 3년 출근 리뷰](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
++ [개발자에게 좋은 직장 혹은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
++ [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
++ [머신러닝 공부 순서](https://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 
 Strategy & Survey
 =====================
