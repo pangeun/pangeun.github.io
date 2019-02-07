@@ -22,14 +22,14 @@ git 저장소 생성
 프로젝트 폴더에서 git init
 ```
 
-git 저장소에 기존 프로젝트 파일 밀어넣기
+git 저장소 > bare로 clone 준비
 ==================
 ```
 git add .
 git commit -m "first download all file"
 ```
 
-git 저장소와 bare저장소를 연결
+git 저장소 > bare저장소 push
 ==================
 ```
 다른서버 : git remote add origin ssh://iptour@211.117.60.113/home/iptour/iptour.git
@@ -37,10 +37,10 @@ git 저장소와 bare저장소를 연결
 git push origin master
 ```
 
-source tree에서 clone으로 bare저장소를 연결
+sourcetree에서 bare clone
 ==================
 
-자동 배포
+자동 배포 설정
 ==================
 1) bare 저장소를 활용할때
 ```
