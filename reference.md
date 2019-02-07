@@ -10,20 +10,29 @@ permalink: /reference/
 
 Company
 =====================
++ [러닝스푼즈-인사이트](http://learningspoons.com/insight/)
++ [스타트업 면접에서 물어봐야 할 것](https://platum.kr/archives/114368)
++ [조직에서 반드시 나타나는 문제점:소통](https://ppss.kr/archives/66914)
++ [개척자가 되기 위해선 조직 구조가 바뀌어야 한다.](https://m.blog.naver.com/PostView.nhn?blogId=businessinsight&logNo=221443655337&proxyReferer=https%3A%2F%2Fm.naver.com%2F)
++ [퇴직 면담법](https://m.blog.naver.com/businessinsight/221444132650)
++ [아마존의 무자비한 13가지 원칙](https://brunch.co.kr/@dobedobedo/21)
 + [리멤버-개발팀의 혁신론](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958)
 + [실리콘 밸리 5개 기업 인터뷰](http://www.looah.com/article/view/2070)
-+ [프로그래머로서 성장을 도왔던 자세들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
-+ [github로 취업하기](https://sujinlee.me/professional-github/)
-+ [balboo 앱 개발기](https://dev-yakuza.github.io/ko/blaboo/development-journal/)
-+ [카카오헤어샵 개발 후기](https://brunch.co.kr/@cg4jins/1?fbclid=IwAR0EIC59PnCSZg5Y9FjSEFlnmB58ISifm9xqysUlqK5Axn486bNlx-yC7z8)
-+ [Javascript 코드 리뷰](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
-+ [아마존 3년 출근 리뷰](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 + [개발자에게 좋은 직장 혹은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
-+ [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
-+ [머신러닝 공부 순서](https://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
++ [프로그래머로서 성장을 도왔던 자세들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
++ [생각이 해맑은 리더는 게으른 리더](https://infuture.kr/m/1689)
++ [비지니스 모델과 전략은 다르다.](http://theschoolofnews.com/archives/2442)
++ [아마존에서 브랜드를 구축해야하는 4가지 이유](https://medium.com/@justin_jin/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-60caae1a273c)
++ [첫사수에게 마지막 들은 말은?](https://brunch.co.kr/@haereka/78?fbclid=IwAR3TWf-bKnfjHceHqdtp2c_ZWTuAyTt7GvcoPhXpGu-1ZCi1YDxqrVDsHIE)
++ [PPT가 없는 회사](https://brunch.co.kr/@taekangk/44)
++ [행복한 직장 만들기](https://hrbulletin.net/organizational-culture/%ED%96%89%EB%B3%B5%ED%95%9C-%EC%A7%81%EC%9E%A5%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-p-e-r-k/)
++ [어느 새벽 스타트업 CEO의 편지](https://brunch.co.kr/@mupasa324/18)
 
 Strategy & Survey
 =====================
++ [카카오 서비스의 파트너십 총정리](https://brunch.co.kr/@partnerswkakao/115)
++ [Toss의 에자일 회고](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
++ [구글 스프린트를 알아보자](http://madedesignbyme.com/archives/1003?fbclid=IwAR1OgPUCNgjk4hPfkb5SwSjA40aHl6OjdY0ubkEDf7TMAKkkPk7rDpi0MGk)
 + [코딩 교육- 설리번 프로젝트](https://sullivanproject.io/)
 + [2018 공유 오피스 데이터](https://platum.kr/archives/114248)
 + [기획자가 배워야햘 분야](http://icunow.co.kr/project-manager2-2/)
@@ -31,6 +40,17 @@ Strategy & Survey
 + [트렐로에서 프로덕트매니저가 일하는 법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/?utm_source=ppc-facebook&utm_medium=ad-link&utm_campaign=id-s1awa-ppc-fbn-trf-avatars&utm_content=avatar4-intproductdevelopment-dmg2535u-kr&utm_term=casestudy-v15-lnk-img-20181114)
 + [19-34 데이터 트렌드](http://www.openads.co.kr/nTrend/article/4439)
 + [2018 게임 마케팅 트렌드](https://m.blog.naver.com/PostView.nhn?blogId=appsflyer_kr&logNo=221419257623&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
++ [와디즈-크라우드펀딩 트렌드 리포트 2019](https://www.slideshare.net/mobile/WADIZ_crowdfunding/2019-129184058?utm_source=wadizcast&utm_medium=wadizsns&utm_campaign=2019)
++ [샌프란시스코 테크 업계 인터뷰1](https://spoqa.github.io/2018/11/07/pm-interview-fb-and-fivestars.html)
++ [당신의 마케팅에는 고객 경험을 고려한 시나리오가 있는가](https://brunch.co.kr/@chrisjeon82n3/26)
++ [github로 취업하기](https://sujinlee.me/professional-github/)
++ [balboo 앱 개발기](https://dev-yakuza.github.io/ko/blaboo/development-journal/)
++ [카카오헤어샵 개발 후기](https://brunch.co.kr/@cg4jins/1?fbclid=IwAR0EIC59PnCSZg5Y9FjSEFlnmB58ISifm9xqysUlqK5Axn486bNlx-yC7z8)
++ [Javascript 코드 리뷰](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
++ [아마존 3년 출근 리뷰](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
++ [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
++ [머신러닝 공부 순서](https://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
+
 
 Developer
 =====================
@@ -87,6 +107,7 @@ Developer
 + [웹서버 및 WAS에 대한 이해](https://brunch.co.kr/@springboot/21)
 + [NODEJS AWS 라이브러리](https://github.com/cheese10yun/node-yun)
 + [Line 메시징 API 다루기](https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot/)
++ [SSL/TLS 운영기](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 
 
 Design
