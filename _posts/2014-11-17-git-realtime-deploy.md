@@ -9,27 +9,27 @@ tag: git
 * content
 {:toc}
 
-1. bare 저장소 생성
+bare 저장소 생성
 ==================
 ```
 mkdir 프로젝트명.git
 git init --bare --shared
 ```
 
-2. git 저장소 생성
+git 저장소 생성
 ==================
 ```
 프로젝트 폴더에서 git init
 ```
 
-3. git 저장소에 기존 프로젝트 파일 밀어넣기
+git 저장소에 기존 프로젝트 파일 밀어넣기
 ==================
 ```
 git add .
 git commit -m "first download all file"
 ```
 
-4. git 저장소와 bare저장소를 연결
+git 저장소와 bare저장소를 연결
 ==================
 ```
 다른서버 : git remote add origin ssh://iptour@211.117.60.113/home/iptour/iptour.git
@@ -37,10 +37,10 @@ git commit -m "first download all file"
 git push origin master
 ```
 
-5. source tree에서 clone으로 bare저장소를 연결
+source tree에서 clone으로 bare저장소를 연결
 ==================
 
-6. 자동 배포
+자동 배포
 ==================
 1) bare 저장소를 활용할때
 ```
@@ -59,7 +59,7 @@ hooks > post-update에 체크아웃 구문 추가
 GIT_WORK_TREE=/home/iptour git checkout -f
 ```
 
-7. 부록
+부록
 ==================
 ```
 ======pull.sh======
