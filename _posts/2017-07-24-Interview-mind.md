@@ -2,8 +2,8 @@
 layout: post
 title:  면접시에 꼭 고려해야 하는 사항
 date:   2017-07-24 00:00:00 +0800
-categories: document
-tag: 教程
+categories: 문서
+tag: 면접
 ---
 
 * content
