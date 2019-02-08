@@ -108,6 +108,7 @@ Developer
 + [NODEJS AWS 라이브러리](https://github.com/cheese10yun/node-yun)
 + [Line 메시징 API 다루기](https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot/)
 + [SSL/TLS 운영기](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
++ [CURL 설치 및 사용법](https://www.lesstif.com/pages/viewpage.action?pageId=14745703)
 
 
 Design
