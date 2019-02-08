@@ -3,7 +3,7 @@ layout: post
 title:  "git 실시간 배포 설정"
 date:   2014-11-17 13:31:01 +0800
 categories: git
-tag: centos, git
+tag: git
 ---
 
 * content
