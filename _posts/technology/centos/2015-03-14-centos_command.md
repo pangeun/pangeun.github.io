@@ -3,9 +3,7 @@ layout: post
 title:  "centos 자주 쓰는 명령어"
 date:   2015-03-14 13:31:01 +0800
 categories: centos
-tag: 
-centos
-명령어
+tag: centos 명령어
 ---
 
 * content
