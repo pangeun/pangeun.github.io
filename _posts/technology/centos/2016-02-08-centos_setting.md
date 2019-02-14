@@ -24,7 +24,7 @@ tag: centos
 
 네임서버 설정
 ==================
-- nameserver를 구글로 변경한다.
+nameserver를 구글로 변경한다.
 ```
 /etc/resolv.conf
 ```
