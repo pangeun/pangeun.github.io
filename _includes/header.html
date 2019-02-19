@@ -14,16 +14,19 @@
       <ul class="nav navbar-nav">    
         <li>
           <a href="{{ '/' | prepend: site.baseurl }}">홈으로</a>
-        </li>
+        </li>        
         <!--li>
           <a href="{{ '/categories/' | prepend: site.baseurl }}">태그</a>
         </li-->
         <li>
-          <a href="{{ '/tag' | prepend: site.baseurl }}">태그</a>
+          <a href="{{ '/tag' | prepend: site.baseurl }}">태그별 보기</a>
         </li>
         <li>
-          <a href="{{ '/reference' | prepend: site.baseurl }}">북마크</a>
-        </li>        
+          <a href="{{ '/reference' | prepend: site.baseurl }}">추천 블로그</a>
+        </li>
+        <li>
+          <a href="{{ '/books' | prepend: site.baseurl }}">내 활동</a>
+        </li>                
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -34,9 +37,9 @@
           <ul class="dropdown-menu">
             <!--li><a rel="nofollow" target="_blank" href="{{site.github}}">Github</a></li-->
             <!--li><a rel="nofollow" href="{{ '/domains/' | prepend: site.baseurl }}">域名管理</a></li-->
-            <li><a rel="nofollow" href="{{ '/books' | prepend: site.baseurl }}">내 활동</a></li>                        
+            <!--li><a rel="nofollow" href="{{ '/books' | prepend: site.baseurl }}">내 활동</a></li-->
             <!--li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">추천 블로그</a></li-->
-            <li class="divider"></li>
+            <!--li class="divider"></li-->
             <li><a href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS피드</a></li>            
             <!--li><a rel="nofollow" target="_blank" href="{{site.resume_site}}">Linkdein</a></li>            
             <li><a rel="nofollow" target="_blank" href="https://github.com/luoyan35714/LessOrMore.git">本项目</a></li-->
