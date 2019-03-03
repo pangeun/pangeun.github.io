@@ -78,10 +78,27 @@ Developer
 + [리눅스 해킹 기술 블로그](https://arcworld.tistory.com/m/category/%EB%A6%AC%EB%88%85%EC%8A%A4/%EB%AA%A8%EC%9D%98%20%ED%95%B4%ED%82%B9)
 + [앱 기획에 유용한 아이콘](https://m.blog.naver.com/PostView.nhn?blogId=dailytopic&logNo=220954820241&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 + [로드밸런싱 사용시 IP 추출](https://m.blog.naver.com/PostView.nhn?blogId=adolkristin&logNo=220707008586&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
++ [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기 - 참석 후기](https://jojoldu.tistory.com/280)
++ [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법.tip](https://okky.kr/article/372485)
++ [백엔드 개발자 학습 로드맵 발표자료](https://www.slideshare.net/javajigi/ss-66877363)
++ [백엔드 개발자 학습 로드맵 참석후기](https://jojoldu.tistory.com/46)
++ [프로그래밍, 어떻게 공부할 것인가 - 인강](https://mindscale.kr/course/how-to-learn-prg)
++ [프로그래밍, 어떻게 공부할 것인가 - 기록](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
++ [규빈님의 TIL](https://github.com/Gyubin/TIL)
++ [비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul](https://jojoldu.tistory.com/247)
++ [창천향로님 세미나 후기](https://jojoldu.tistory.com/category/%EC%84%B8%EB%AF%B8%EB%82%98)
++ [진유림님의 신입개발자 생활백서](https://www.slideshare.net/jayjin0427/ss-71896768%20)
++ [페이스북 개발자 인터뷰 준비기](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
++ [개발자가 밤새는것은 과연 용서가 되는가](https://okky.kr/article/493136)
++ [카카오 면접 시 듣게되는 70가지 질문](http://www.bloter.net/archives/245529)
++ [소프트웨어 개발자가 되기는 왜 어려운가?](https://okky.kr/article/50020)
++ [알고리즘과 자료구조 딕셔너리](https://xlinux.nist.gov/dads/#L)
++ [문과출신 싱가폴 해외취업 개발자 마르코님 브런치](https://brunch.co.kr/@imagineer#info)
 
 
 Front-End
 =====================
++ [웹아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101)
 + [Front-End 개발자의 역사와 생태계](https://moon9342.github.io/front-end-ecosystem)
 + [Front-End 체크리스트](https://github.com/kesuskim/Front-End-Checklist/blob/master/README.md)
 + [왜 React를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
@@ -110,6 +127,7 @@ Front-End
 + [Ajax의 흐름](https://marobiana.tistory.com/m/77)
 + [Front-End 성능 테스트](https://github.com/ParkSB/Front-End-Performance-Checklist/blob/master/README.md)
 + [Progressive Web app](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ko)
++ [자바스크립트로 배우는 컴퓨터 과학](https://github.com/ryuhangyeong/learn-javascript/blob/master/README.md)
 
 
 Back-End

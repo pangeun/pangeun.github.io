@@ -97,6 +97,14 @@ Company
 + [직장 회의시 유의해야할 집단적 사고](https://m.post.naver.com/viewer/postView.nhn?volumeNo=14956031)
 + [스타트업에서 조직문화 만들기](https://brunch.co.kr/@bbscanvas/29)
 + [혼냈으니 술 사주며 풀어줘야지???](https://m.blog.naver.com/businessinsight/221321277135)
++ [글로벌 기업 구글의 9가지 채용 기준](https://m.facebook.com/story.php?story_fbid=957525324399785&id=234521373366854)
++ [최고의 직원을 유지하는 법](https://richardbranson.tistory.com/m/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A7%81%EC%9B%90%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95-150429)
++ [스타트업 조직 문화 형성에 꼭 필요한 3가지](http://www.venturesquare.net/756010)
++ [수줍음 많은 사람들이 일하기 좋은 고소득 직업 25가지](http://m.wikitree.co.kr/main/news_view.php?id=324102#_enliple)
++ [좋은 상사의 필수 조건](https://ppss.kr/archives/66177)
++ [회사내 간신배를 찾아내는 한비자의 5가지 지혜](https://m.blog.naver.com/businessinsight/221094859465)
++ [회사에 필요한 5가지 인재](https://brunch.co.kr/@hyungsukkim/26)
++ [회의실의 브랜딩 : 브랜딩 회의만 7시간](https://brunch.co.kr/@roysday/123)
 
 
 Strategy & Survey
@@ -111,6 +119,7 @@ Strategy & Survey
 + [단축 URL 서비스의 비지니스 모델](http://insidestory.kr/19066)
 + [21개 유니콘 기업들의 초기 유저를 모은 방법](https://platum.kr/archives/107816)
 + [해외 취업을 목표로 한다면 반드시 알아두어야할 사이트 모음](https://jins-dev.tistory.com/m/83)
++ [더 많은 수익을 창출하는 가격 전략](http://www.thedigitalmkt.com/how-to-generate-more-profits-by-focusing-on-your-pricing-strategy/)
 + [왜 이렇게 말하는 걸까? 업무용어 대혼종 20가지](https://brunch.co.kr/@roysday/239)
 + [플랫폼에 따른 전략](https://brunch.co.kr/@bellrings/14#)
 + [운영기획건, 프로젝트 범위 잘라내기](https://brunch.co.kr/@windydog/182)
@@ -174,3 +183,5 @@ Strategy & Survey
 + [왜 프로그래머는 당신의 기획에 안되요 라고 대답하는가](https://gamemook.com/m/491)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
 + [모든 것에서 패턴을 찾아내는 구글이 찾아낸 완벽한 팀](https://m.blog.naver.com/PostView.nhn?blogId=businessinsight&logNo=221468827785&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
++ [좋은 크리에이티브의 조건](http://moneyman.kr/archives/2835)
++ [2018 동영상 마케팅 통계 15가지](https://trendw.kr/2017-12143445.t1m)

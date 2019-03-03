@@ -85,6 +85,7 @@ Design
 + [기본을 잊지 않기 위한 Design Hierarchy 원칙](https://m.blog.naver.com/PostView.nhn?blogId=this_design_study&logNo=221327662015&proxyReferer=https%3A%2F%2Fppss.kr%2Farchives%2F173076%3Ffbclid%3DIwAR22cU8zd5hYe43d1O0Av4QYh0_b_PGGn6CEt2DuFRHYTjegDNpgJzE9XOQ)
 + [디자인 컨셉트는 이렇게 잡아요](https://brunch.co.kr/@roysday/234)
 + [문자로 시작해서 디자인으로 끝내기](https://medium.com/hyuk/%EB%AC%B8%EC%9E%90%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%B4%EC%84%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EB%81%9D%EB%82%B4%EA%B8%B0-97fadbcc3392)
++ [디자이너라면 꼭 봐야할 인쇄 노하우](http://egloos.zum.com/thirstsoul/v/22468)
 + [디자이너 첫 회사 생활로 배운 6가지 업무 습관](https://brunch.co.kr/@andsalt/17)
 + [인공지능과 미래의 디자인 : 2025년의 디자이너](https://brunch.co.kr/@zzzaam/8)
 + [사용자 다음 행위를 유도하기 위한 어포던스 4원칙](https://brunch.co.kr/@ebprux/649)
@@ -117,4 +118,5 @@ Design
 + [디자이너가 프로덕트 매니저에게 배울 수 있는 것들](https://medium.com/a-startup-hustlers-guide/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A7%A4%EB%8B%88%EC%A0%80%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EB%93%A4-84573e75f461)
 + [Data로 디자인 개선하기](https://brunch.co.kr/@ayhhh1/13)
 + [의외로 디테일한 디자이너의 종류](https://brunch.co.kr/@roysday/207)
++ [13개의 서클로 13개 동물 디자인하기](https://brunch.co.kr/@forchoon/51)
 + [디자이너 월급은 왜 이 모양일까?](https://brunch.co.kr/@neokori/4)
