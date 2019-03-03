@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design
+title: 디자인
 permalink: /design/
 ---
 
@@ -10,7 +10,9 @@ permalink: /design/
 Design
 =====================
 + [2019 웹디자인 트렌드](https://brunch.co.kr/@thinkaboutlove/209)
++ [디자이너 눈에 비친 조금 다른 세상 20가지](https://brunch.co.kr/@roysday/313)
 + [토스 브랜드](https://toss.im/brand)
++ [영감은 어디서 어떻게 얻는것일까](https://brunch.co.kr/@leeinseo/28)
 + [모바일 UI 디자인 기본 요소](https://brunch.co.kr/@chulhochoiucj0/23)
 + [직관을 믿고 느낌으로 디자인하자](https://brunch.co.kr/@jinbread/88)
 + [2018 디자인 트렌드 정리](https://brunch.co.kr/@thinkaboutlove/211)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Company
+title: 경영&전략
 permalink: /domains/
 ---
 
@@ -173,3 +173,4 @@ Strategy & Survey
 + [Ads. study 총정리](https://itmobile.tistory.com/m/entry/Ads-Study-list)
 + [왜 프로그래머는 당신의 기획에 안되요 라고 대답하는가](https://gamemook.com/m/491)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
++ [모든 것에서 패턴을 찾아내는 구글이 찾아낸 완벽한 팀](https://m.blog.naver.com/PostView.nhn?blogId=businessinsight&logNo=221468827785&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)

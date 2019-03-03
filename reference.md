@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOps
+title: 개발
 permalink: /reference/
 ---
 
@@ -9,6 +9,7 @@ permalink: /reference/
 
 Developer
 =====================
++ [2019 개발자 로드맵](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
 + [안전한 패스워드 저장](https://d2.naver.com/helloworld/318732)
 + [AWS 전문가 되기](https://brunch.co.kr/magazine/devops)
 + [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md)
@@ -113,6 +114,7 @@ Front-End
 
 Back-End
 =====================
++ [HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
 + [PDO 소개 및 기본 다지기](https://idchowto.com/?p=20119)
 + [PDO 다시 설명하기](https://pamooochim.blogspot.com/2016/01/pdo-php.html?m=1)
 + [웹크롤링 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
