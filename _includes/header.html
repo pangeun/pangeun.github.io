@@ -12,9 +12,9 @@
     </div>
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">    
-        <li>
+        <!--li>
           <a href="{{ '/' | prepend: site.baseurl }}">홈으로</a>
-        </li>        
+        </li-->        
         <!--li>
           <a href="{{ '/categories/' | prepend: site.baseurl }}">태그</a>
         </li-->
@@ -22,14 +22,14 @@
           <a href="{{ '/tag' | prepend: site.baseurl }}">태그별 보기</a>
         </li>
         <li>
-          <a href="{{ '/reference' | prepend: site.baseurl }}">개발 블로그</a>
+          <a href="{{ '/domains' | prepend: site.baseurl }}">경영&전략</a>
+        </li>                
+        <li>
+          <a href="{{ '/reference' | prepend: site.baseurl }}">개발</a>
         </li>
         <li>
-          <a href="{{ '/domains' | prepend: site.baseurl }}">기타 블로그</a>
-        </li>        
-        <li>
-          <a href="{{ '/books' | prepend: site.baseurl }}">내 활동</a>
-        </li>                
+          <a href="{{ '/design' | prepend: site.baseurl }}">디자인</a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -40,7 +40,7 @@
           <ul class="dropdown-menu">
             <!--li><a rel="nofollow" target="_blank" href="{{site.github}}">Github</a></li-->
             <!--li><a rel="nofollow" href="{{ '/domains/' | prepend: site.baseurl }}">域名管理</a></li-->
-            <!--li><a rel="nofollow" href="{{ '/books' | prepend: site.baseurl }}">내 활동</a></li-->
+            <li><a rel="nofollow" href="{{ '/books' | prepend: site.baseurl }}">내 활동</a></li>
             <!--li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">추천 블로그</a></li-->
             <!--li class="divider"></li-->
             <li><a href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS피드</a></li>            

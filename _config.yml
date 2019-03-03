@@ -5,7 +5,7 @@ author: Pangeun Kim
 url: pangeun.github.io
 resume_site: https://www.linkedin.com/in/pangeunkim/
 github: https://github.com/pangeun/
-baseurl: "/tags"
+baseurl: ""
 description: 백발의 개발자를 꿈꾸고 있습니다.
 meta_description: AWS, NCP, PHP7, MYSQL, NoSQL, Nodejs, React, DaynamoDB
 motto: 백번의 말보다 한번의 실행으로 결과를 만들자.
