@@ -59,7 +59,7 @@ hooks > post-update에 체크아웃 구문 추가
 GIT_WORK_TREE=/home/iptour git checkout -f
 ```
 
-부록
+부록1
 ==================
 ```
 ======pull.sh======
@@ -70,4 +70,10 @@ echo "start git pull"
 exec git pull origin master
 echo "finish"
 ======pull.sh======
+```
+
+부록2
+==================
+```
+git clone ssh://lesstif@mydomain.com:[port]/var/lib/git/myproj.git
 ```
